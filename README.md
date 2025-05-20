@@ -1,7 +1,7 @@
 ```
 Developed by : Madhesh I
 Reg No : 212224220055
-Date : 06/05/25
+Date : 04/04/25
 ```
 # Single server with infinite capacity (M/M/1):(oo/FIFO)
 ## Aim :
